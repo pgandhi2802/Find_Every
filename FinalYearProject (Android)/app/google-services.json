@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "21801387769",
+    "project_id": "finalyearproject-1290"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21801387769:android:fa4fc0a587c1dff5",
+        "android_client_info": {
+          "package_name": "com.example.piyush.finalyearproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmAK3NR--amgjwrWoiTUrJfWYF7t5cUxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
